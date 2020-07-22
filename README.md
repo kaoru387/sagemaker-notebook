@@ -1,2 +1,2 @@
 # sagemaker-notebook
-AWS SageMakerのノートブックで作成したソース
+AWS SageMakerノートブックで作成
