@@ -1,2 +1,2 @@
 # sagemaker-notebook
-AWS SageMakerノートブックで作成
+AWS SageMaker try
